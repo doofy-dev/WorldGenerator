@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WorldGenerator2")]
+[assembly: AssemblyTitle("WorldGenerator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WorldGenerator2")]
+[assembly: AssemblyProduct("WorldGenerator")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("16f16002-22e1-4f14-8ba6-9d28bb379775")]
+[assembly: Guid("8bf56e7e-98a7-43c5-80f6-21a604ccd433")]
 
 // Version information for an assembly consists of the following four values:
 //
